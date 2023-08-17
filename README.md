@@ -5,7 +5,7 @@
  ainda ter pouco conhecimento nesta parte.
  <br>
  <br>
- Segue os links do desafio e do curso.<br
+ Segue os links do desafio e do curso.<br>
  Curso: https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n<br>
  Desafio: https://github.com/gustavoguanabara/html-css/blob/master/desafios/modulo-02/d010/desafio-android.pdf
  
